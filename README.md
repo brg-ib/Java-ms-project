@@ -20,5 +20,23 @@ Java-ms-project
 |
 └─── gateway -> Miscro-service Passerelle
 |
+└─── Article -> Miscro-service Article
+|
 └─── Client -> Miscro-service Client
+
 ```
+
+
+**Micro services**
+- Eureka : Port 9102
+- Gateway : Port 9010
+- User : Port 9020
+- Categorie : Port 9030
+- Article : Port 9040
+- Client : Port 9050
+
+
+**Services utilisés**
+- Répartition charge : Ribbon
+- Découvrabilité : Eureka
+- Passerelle : Gateway

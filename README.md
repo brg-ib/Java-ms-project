@@ -25,7 +25,7 @@ Java-ms-project
 └─── Client -> Miscro-service Client
 
 ```
-
+----
 
 **Micro services**
 - Eureka : Port 9102
@@ -34,9 +34,18 @@ Java-ms-project
 - Categorie : Port 9030
 - Article : Port 9040
 - Client : Port 9050
-
+----
 
 **Services utilisés**
 - Répartition charge : Ribbon
 - Découvrabilité : Eureka
 - Passerelle : Gateway
+----
+
+######A Propos
+>Projet réalisé par Ihcen Borgi, Awa Diop
+
+####About
+                
+1. Ihcen Borgi
+2. Awa Diop

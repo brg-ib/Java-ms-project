@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="eureka_server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="eureka_server/src/main/java"/>
+	<classpathentry kind="src" path="eureka_server/src/test/java"/>
+	<classpathentry kind="src" path="gateway/.mvn/wrapper"/>
+	<classpathentry kind="src" path="gateway/src/main/java"/>
+	<classpathentry kind="src" path="gateway/src/test/java"/>
+	<classpathentry kind="lib" path="eureka_server/target/ms-eureka_server-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="gateway/target/ms-gateway-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="eureka_server/target/classes"/>
+</classpath>

@@ -1,3 +1,24 @@
 # Blog micro service
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
+### arborescence du projet
+
+```
+Java-ms-project
+│   README.md    
+│
+└─── BDD
+│   │   delta_blog.sql -> Base de donnée du blog
+│   
+└─── Categorie -> Miscro-service categorie
+|
+└─── Commentaire -> Miscro-service Commentaire
+|
+└─── User -> Miscro-service User
+|
+└─── eureka_server -> Miscro-service eureka
+|
+└─── gateway -> Miscro-service Passerelle
+|
+└─── Client -> Miscro-service Client
+```

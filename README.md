@@ -42,10 +42,6 @@ Java-ms-project
 - Passerelle : Gateway
 ----
 
-######A Propos
->Projet réalisé par Ihcen Borgi, Awa Diop
-
-####About
-                
+***About***           
 1. Ihcen Borgi
 2. Awa Diop

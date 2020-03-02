@@ -30,8 +30,8 @@ Java-ms-project
 **Micro services**
 - Eureka : Port 9102
 - Gateway : Port 9010
-- User : Port 9020
-- Categorie : Port 9030
+- User : Port 9030
+- Categorie : Port 9020
 - Article : Port 9040
 - Client : Port 9050
 ----
